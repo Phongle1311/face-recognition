@@ -36,7 +36,7 @@ This project focuses on building **a face recognition system** using deep learni
 
 ## Dataset
 
-The dataset used for training and evaluation is the Pins Face Recognition dataset, containing 17,534 images of 105 celebrities. The data was split into training and testing sets in an 80:20 ratio.
+The dataset used for training and evaluation is the **Pins Face Recognition** dataset, containing 17,534 images of 105 celebrities. The data was split into training and testing sets in an 80:20 ratio.
 
 ## Results
 
@@ -78,4 +78,3 @@ For any inquiries, please contact:
 
 - **Name**: Lê Hoài Phong
 - **Email**: it.lhphong@gmail.com or hoaiphong13.11.2002@gmail.com
-# face-recognition
